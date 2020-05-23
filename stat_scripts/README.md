@@ -1,4 +1,4 @@
-# OpenMP BnB interval solver
+# Stat scripts
 
 Scripts for running and creating statistics bnbshmem algorithms.
 
